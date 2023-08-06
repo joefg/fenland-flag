@@ -2,6 +2,8 @@
 
 Some higher-quality images of the Fenland Flag, for use in documents, etc.
 
+![The flag.](fenland-flag.webp)
+
 ## About the Fenland Flag
 
 The Fenland Flag was designed by regional resident and vexillographer James Bowman.
